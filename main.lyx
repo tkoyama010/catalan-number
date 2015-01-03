@@ -67,7 +67,7 @@
 \begin_inset Formula 
 \begin{eqnarray*}
 \left\langle a_{n}\right\rangle *\left\langle b_{n}\right\rangle  & = & \left\langle {\displaystyle \sum_{k=0}^{n}a_{k}b_{n-k}}\right\rangle \\
- & = & \left\langle a_{0}b_{0-0},\; a_{0}b_{1-0}+a_{1}b_{1-1},\; a_{0}b_{2-0}+a_{1}b_{2-1}+a_{2}b_{2-2},\;\cdots\right\rangle 
+ & = & \left\langle a_{0}b_{0-0},\; a_{0}b_{1-0}+a_{1}b_{1-1},\; a_{0}b_{2-0}+a_{1}b_{2-1}+a_{2}b_{2-2},\; a_{0}b_{3-0}+a_{1}b_{3-1}+a_{2}b_{3-2}+a_{3}b_{3-3},\;\cdots\right\rangle 
 \end{eqnarray*}
 
 \end_inset
